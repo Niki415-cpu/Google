@@ -15,8 +15,7 @@ This project replicates the visual layout, search bar, icons, and top navigation
 
 ## 🚀 Live Site
 
-🔗 [Click to View](https://Niki415-cpu.github.io/Google)  
-(replace this with your real GitHub Pages link)
+🔗 [Click to View](https://Niki415-cpu.github.io/index.html)
 
 
 ## 🛠 Technologies Used
@@ -37,7 +36,7 @@ google-homepage-clone/
 
 *Nikitha Sai*  
 Frontend Developer & Designer  
-🌟 GitHub: [@nikitha-sai](https://github.com/nikitha-sai)
+🌟 GitHub: (https://github.com/Niki415-cpu)
 
 
 ## 💡 Inspiration
