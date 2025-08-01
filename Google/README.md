@@ -15,7 +15,7 @@ This project replicates the visual layout, search bar, icons, and top navigation
 
 ## 🚀 Live Site
 
-🔗 [Click to View](https://Niki415-cpu.github.io/index.html)
+🔗 [Click to View](https://Niki415-cpu.github.io/Google)
 
 
 ## 🛠 Technologies Used
